@@ -1,0 +1,3 @@
+{"query":"How does the system combine dense and lexical retrieval?","relevant_document_ids":["architecture"],"expected_terms":["hybrid","bm25","dense"]}
+{"query":"What happens when retrieval confidence is low?","relevant_document_ids":["operations"],"expected_terms":["not enough evidence","fallback"]}
+{"query":"Which evaluation metrics are tracked by the project?","relevant_document_ids":["api-evaluation"],"expected_terms":["recall at k","mean reciprocal rank","citation hit rate"]}
